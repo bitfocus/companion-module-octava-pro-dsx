@@ -1,8 +1,5 @@
 # companion-module-octava-pro-dsx
-
-Provides essential control over HTTP, for more info look in HELP.md
-
-This module will connect to a Octava Pro DSX.
+See HELP.md and LICENSE
 
 **V0.0.1**
 * Added support for nearly all available commands
